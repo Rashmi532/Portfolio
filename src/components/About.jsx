@@ -19,20 +19,6 @@ const About = () => {
               financial reconciliation modules. I thrive in collaborative environments and am always 
               eager to learn new technologies and best practices.
             </p>
-            <div className="about-highlights">
-              <div className="highlight-item">
-                <span className="highlight-number">4+</span>
-                <span className="highlight-label">Internships</span>
-              </div>
-              <div className="highlight-item">
-                <span className="highlight-number">10+</span>
-                <span className="highlight-label">Projects</span>
-              </div>
-              <div className="highlight-item">
-                <span className="highlight-number">9.22</span>
-                <span className="highlight-label">CGPA</span>
-              </div>
-            </div>
           </div>
         </div>
       </div>
