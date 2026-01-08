@@ -31,30 +31,6 @@ const Experience = () => {
         'Worked on CRUD operations, authentication flows, and backend business logic.'
       ]
     },
-    {
-      title: 'AI & ML Intern',
-      company: 'Rooman Technologies Pvt Ltd',
-      location: 'Bangalore',
-      period: 'Sep 2024 – Feb 2025',
-      technologies: ['Python', 'Machine Learning', 'AI Fundamentals'],
-      description: [
-        'Processed datasets and improved machine learning model accuracy through optimization techniques.',
-        'Implemented ML algorithms for real-world automation and prediction systems.',
-        'Tested and validated model performance across different datasets.'
-      ]
-    },
-    {
-      title: 'IIoT Intern',
-      company: 'Enthu Technology Solutions Pvt Ltd',
-      location: 'Bangalore',
-      period: 'Aug 2023 – Sep 2023',
-      technologies: ['IoT', 'LoRaWAN', 'C++'],
-      description: [
-        'Implemented LoRaWAN-based IIoT solutions for real-time data monitoring.',
-        'Enhanced device connectivity, data transmission reliability, and system performance.',
-        'Analyzed sensor data for operational insights and system improvements.'
-      ]
-    }
   ]
 
   return (

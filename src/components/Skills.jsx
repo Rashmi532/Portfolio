@@ -11,7 +11,7 @@ import {
   FaGithub,
   FaCode
 } from 'react-icons/fa'
-import { SiSpringboot, SiMysql, SiNestjs, SiNextdotjs, SiPostman, SiCplusplus } from 'react-icons/si'
+import { SiSpringboot, SiMysql, SiNestjs, SiNextdotjs, SiCplusplus } from 'react-icons/si'
 import './Skills.css'
 
 const Skills = () => {
@@ -50,7 +50,6 @@ const Skills = () => {
         { name: 'REST APIs', icon: <FaDatabase />, level: 85 },
         { name: 'Git', icon: <FaGitAlt />, level: 85 },
         { name: 'GitHub', icon: <FaGithub />, level: 90 },
-        { name: 'Postman', icon: <SiPostman />, level: 80 }
       ]
     }
   ]
