@@ -13,7 +13,7 @@ const Projects = () => {
         'Doctor profile management',
         'Patient queue management'
       ],
-      github: '#',
+      github: 'https://github.com/Rashmi532/NestJS_Application',
       demo: '#'
     },
     {
@@ -26,7 +26,7 @@ const Projects = () => {
         'Secure data storage in MySQL',
         'Smooth frontend-backend integration'
       ],
-      github: '#',
+      github: 'https://github.com/Rashmi532/Employee_CRUD_SpringBoot',
       demo: '#'
     },
     {
@@ -39,7 +39,7 @@ const Projects = () => {
         'Multi-species recognition',
         'Works in diverse environments'
       ],
-      github: '#',
+      github: 'https://github.com/Rashmi532/animal-species-detection-using-yolo_v8-algorithm',
       demo: '#'
     },
     {
@@ -52,7 +52,7 @@ const Projects = () => {
         'Conservation reporting',
         'Database-driven architecture'
       ],
-      github: '#',
+      github: 'https://github.com/Rashmi532/Wildlife-Animal-Spotting-Management-main',
       demo: '#'
     }
   ]

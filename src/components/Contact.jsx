@@ -43,7 +43,7 @@ const Contact = () => {
             </div>
             <div className="social-links">
               <a 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/rashmi-j-s/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="social-button"
@@ -53,7 +53,7 @@ const Contact = () => {
                 <span>LinkedIn</span>
               </a>
               <a 
-                href="https://github.com" 
+                href="https://github.com/Rashmi532" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="social-button"
