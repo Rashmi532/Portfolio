@@ -4,7 +4,7 @@ import './Experience.css'
 const Experience = () => {
   const experiences = [
     {
-      title: 'Software Development Intern',
+      title: 'Full Stack Development Intern',
       company: 'Qugates Technologies',
       location: 'Bangalore',
       period: 'Sep 2025 – Jan 2026',
