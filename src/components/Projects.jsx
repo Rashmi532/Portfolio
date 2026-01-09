@@ -13,8 +13,8 @@ const Projects = () => {
         'Doctor profile management',
         'Patient queue management'
       ],
-      github: 'https://github.com/Rashmi532/NestJS_Application',
-      demo: '#'
+      // github: 'https://github.com/Rashmi532/NestJS_Application',
+      // demo: '#'
     },
     {
       title: 'Employee Management System',
@@ -26,8 +26,8 @@ const Projects = () => {
         'Secure data storage in MySQL',
         'Smooth frontend-backend integration'
       ],
-      github: 'https://github.com/Rashmi532/Employee_CRUD_SpringBoot',
-      demo: '#'
+      // github: 'https://github.com/Rashmi532/Employee_CRUD_SpringBoot',
+      // demo: '#'
     },
     {
       title: 'Deep Learning Animal Species Detection',
@@ -39,8 +39,8 @@ const Projects = () => {
         'Multi-species recognition',
         'Works in diverse environments'
       ],
-      github: 'https://github.com/Rashmi532/animal-species-detection-using-yolo_v8-algorithm',
-      demo: '#'
+      // github: 'https://github.com/Rashmi532/animal-species-detection-using-yolo_v8-algorithm',
+      // demo: '#'
     },
     {
       title: 'Wildlife Tracking System',
@@ -52,8 +52,8 @@ const Projects = () => {
         'Conservation reporting',
         'Database-driven architecture'
       ],
-      github: 'https://github.com/Rashmi532/Wildlife-Animal-Spotting-Management-main',
-      demo: '#'
+      // github: 'https://github.com/Rashmi532/Wildlife-Animal-Spotting-Management-main',
+      // demo: '#'
     }
   ]
 

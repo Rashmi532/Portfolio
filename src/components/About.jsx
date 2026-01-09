@@ -14,7 +14,7 @@ const About = () => {
               solve real-world problems.
             </p>
             <p className="about-description">
-              With a strong academic background (CGPA 9.22) and multiple internships under my belt, 
+              With a strong academic background and multiple internships under my belt, 
               I've worked on enterprise-level applications including employee onboarding systems and 
               financial reconciliation modules. I thrive in collaborative environments and am always 
               eager to learn new technologies and best practices.
