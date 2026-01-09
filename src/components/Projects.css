@@ -40,31 +40,6 @@
   flex: 1;
 }
 
-.project-links {
-  display: flex;
-  gap: 0.75rem;
-}
-
-.project-link {
-  width: 36px;
-  height: 36px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: var(--bg-dark);
-  border-radius: 8px;
-  color: var(--text-secondary);
-  transition: all 0.3s ease;
-  border: 1px solid var(--border-color);
-}
-
-.project-link:hover {
-  background: var(--primary-color);
-  color: white;
-  border-color: var(--primary-color);
-  transform: scale(1.1);
-}
-
 .project-description {
   color: var(--text-secondary);
   line-height: 1.7;
