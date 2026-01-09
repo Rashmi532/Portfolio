@@ -1,4 +1,3 @@
-import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'
 import './Projects.css'
 
 const Projects = () => {
@@ -68,10 +67,10 @@ const Projects = () => {
                 <h3 className="project-title">{project.title}</h3>
                 <div className="project-links">
                   <a href={project.github} target="_blank" rel="noopener noreferrer" className="project-link">
-                    <FaGithub />
+                    {/* <FaGithub /> */}
                   </a>
                   <a href={project.demo} target="_blank" rel="noopener noreferrer" className="project-link">
-                    <FaExternalLinkAlt />
+                    {/* <FaExternalLinkAlt /> */}
                   </a>
                 </div>
               </div>
